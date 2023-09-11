@@ -293,3 +293,4 @@ specificity: 0.8650271893515137
 ![Confusion matrix](images/6_confusion_matrix.png)
 
 This particular model maintains the best score as 'precision'. As suggested earlier, from a business perspective, it leans towards 'certainty' that the individual in the data set can qualify for a better ('Good') credit score. If this is a bank, this could mean a better interest rate on a mortgage. Perhaps if renting an apartment, a better chance at qualifying for a lease.For this assignment, I use 'Credit Score Classification'. The data contains 100,000 entries and 20 columns. My business interest in this data was to predict credit scores ('Good', 'Bad').
+
